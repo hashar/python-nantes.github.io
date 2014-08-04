@@ -1,7 +1,7 @@
 À propos de Python-Nantes
 #########################
 
-Python-Nantes organise des meetups autour de Python et de son environnement.
+Python-Nantes organise des réunions autour de Python et de son environnement.
 
 Ce site a pour but de vous faire part des annonces des prochains évènements ainsi que présenter des comptes-rendus des meetups.
 
